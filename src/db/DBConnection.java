@@ -6,11 +6,8 @@ import java.sql.DriverManager;
 public class DBConnection {
 
     public static Connection getConnection() throws Exception {
-        Class.forName("com.mysql.cj.jdbc.Driver");
-        return DriverManager.getConnection(
-            "jdbc:mysql://localhost:3306/swiftpay",
-            "root",
-            "moh1"
-        );
+        Class.forName("org.sqlite.JDBC");
+        return DriverManager.getConnection("jdbc:sqlite:swiftpay.db");
     }
 }
+
