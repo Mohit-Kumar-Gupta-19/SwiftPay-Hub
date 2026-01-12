@@ -28,7 +28,7 @@ IDE	VS Code
 
 
 
-📂 Project Structure
+**📂 Project Structure**
 
 SwiftPayHub
 
@@ -96,6 +96,7 @@ SwiftPayHub
 └── README.md
 
 **Page	Preview**
+
 🔐 Login Page	
 🏠 Dashboard	
 💰 Deposit Money	
@@ -104,6 +105,7 @@ SwiftPayHub
 ⭐ Feedback	
 
 **⚙️ Database Schema (MySQL)**
+
 👤 Users
 user_id (PK)
 name
@@ -151,6 +153,7 @@ Mohit Kumar Gupta
 💼 Java | Spring Boot | MySQL | JDBC
 
 ⭐ If you like this project, don’t forget to star the repo!
+
 
 
 
