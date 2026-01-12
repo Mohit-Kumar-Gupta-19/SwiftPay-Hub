@@ -16,6 +16,7 @@ It allows users to register, login, deposit money, withdraw funds, view balance,
 ✅ Clean MVC Architecture
 ✅ Responsive & Modern UI
 
+
 **🛠️ Tech Stack**
 Layer	Technology
 Backend	Spring Boot (Java 17)
@@ -24,39 +25,74 @@ Database	MySQL
 Security	Password Hashing
 Build Tool	Maven
 IDE	VS Code
+
+
+
 📂 Project Structure
+
 SwiftPayHub
+
 │
+
 ├── src/main/java/com/swiftpayhub
+
 │   ├── controller
+
 │   │   ├── AuthController.java
+
 │   │   ├── BankController.java
+
 │   │   └── SupportController.java
+
 │   │
+
 │   ├── service
+
 │   │   └── BankService.java
+
 │   │
+
 │   ├── db
+
 │   │   └── DBConnection.java
+
 │   │
+
 │   ├── util
+
 │   │   └── PasswordUtil.java
+
 │   │
+
 │   └── SwiftPayHubApplication.java
+
 │
+
 ├── src/main/resources
+
 │   ├── templates
+
 │   │   ├── login.html
+
 │   │   ├── dashboard.html
+
 │   │   ├── transactions.html
+
 │   │   ├── feedback.html
+
 │   │   └── contact.html
 │   │
+
 │   ├── static
+
 │   │   └── style.css
+
 │   │
+
 │   └── application.properties
+
 │
+
 └── README.md
 
 **Page	Preview**
@@ -115,5 +151,6 @@ Mohit Kumar Gupta
 💼 Java | Spring Boot | MySQL | JDBC
 
 ⭐ If you like this project, don’t forget to star the repo!
+
 
 
