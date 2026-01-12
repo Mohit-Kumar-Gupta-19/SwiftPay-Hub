@@ -1,9 +1,9 @@
-**💳 SwiftPay Hub
+**💳 SwiftPay-Hub
 🚀 A Modern Banking Web Application using Spring Boot & MySQL**
 
 **🌟 Overview**
 
-SwiftPay Hub is a secure, user-friendly banking web application built using Spring Boot, Thymeleaf, and MySQL.
+SwiftPay-Hub is a secure, user-friendly banking web application built using Spring Boot, Thymeleaf, and MySQL.
 It allows users to register, login, deposit money, withdraw funds, view balance, track transactions, and submit feedback & contact requests — all through a clean and modern UI.
 
 **✨ Key Features**
@@ -88,7 +88,7 @@ tx_time
 
 🚀 How to Run the Project
 # Clone repository
-git clone https://github.com/your-username/SwiftPayHub.git
+git clone https://github.com/your-username/SwiftPay-Hub.git
 
 # Open project
 cd SwiftPayHub
@@ -115,3 +115,4 @@ Mohit Kumar Gupta
 💼 Java | Spring Boot | MySQL | JDBC
 
 ⭐ If you like this project, don’t forget to star the repo!
+
