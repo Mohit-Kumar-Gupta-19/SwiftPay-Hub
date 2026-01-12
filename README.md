@@ -88,7 +88,7 @@ tx_time
 
 🚀 How to Run the Project
 # Clone repository
-git clone https://github.com/your-username/SwiftPay-Hub.git
+git clone https://github.com/Mohit-Kumar-Gupta-19/SwiftPay-Hub
 
 # Open project
 cd SwiftPayHub
@@ -115,4 +115,5 @@ Mohit Kumar Gupta
 💼 Java | Spring Boot | MySQL | JDBC
 
 ⭐ If you like this project, don’t forget to star the repo!
+
 
